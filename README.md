@@ -2,7 +2,7 @@
 
 [Python, Tweepy Library, Twitter API, Scikit-learn, Numpy, Pandas] 
 
-Building a python application for classification and seggregation of data as a racist/sexist comment or not - 
+A python application for classification and seggregation of data as a racist/sexist comment or not - 
 
 1. Gathering and cleaning : Scraped data from twitter using tweepy library in Python, which communicates with the twitter API and built functions to clean, parse and tokenize the tweets.
 2. Visualization and Extraction : Cleaned data is visualized in WordCloud format and extracted features for the same using natural language processing.
